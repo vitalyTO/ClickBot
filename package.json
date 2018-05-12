@@ -1,0 +1,23 @@
+{
+  "name": "Weedmaps_Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chain-proxy": "0.0.3",
+    "chrome-launcher": "^0.10.2",
+    "chromeless": "^1.5.1",
+    "global-tunnel": "^1.2.0",
+    "node-fetch": "^2.1.2",
+    "opn": "^5.3.0",
+    "proxy-chain": "^0.1.29",
+    "proxy-supervisor": "^0.9.1",
+    "ps-nordvpn": "^1.0.1"
+  }
+}
